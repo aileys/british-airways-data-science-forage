@@ -16,10 +16,10 @@ env/
 .DS_Store
 Thumbs.db
 
-# VS Code / IDE settings
+# IDE settings
 .vscode/
 .idea/
 
-# Optional: model or large artifact folders (if added later)
+# Optional: models/outputs
 models/
 outputs/
